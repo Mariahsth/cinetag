@@ -8,6 +8,7 @@ Aplicativo de reprodução de videos.
 
 * React
 * JavaScript
+* Node.js
 * CSS
   
 
